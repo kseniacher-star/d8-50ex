@@ -1,0 +1,46 @@
+body {    
+    width: 100%;
+    margin: auto;
+    align-content: center;
+}
+
+.riga {
+    border-right: 1px black solid;
+}
+
+.tabella {
+    border: 1px black solid;
+    border-radius: 15px;
+}
+
+td {
+    border: 2px green solid;
+    border-radius: 15px;
+}
+
+img {
+    width: 50%;
+    height: 50%;
+}
+
+h1 {
+    text-align: center;
+}
+
+a {
+    color: rgb(206, 48, 188);
+}
+
+p {
+    margin: 1rem;
+}
+
+.paragrafo {
+    font-size: 50px;
+    font-weight: 400;
+}
+.paragrafo {
+    display: none;
+}
+
+
